@@ -1,4 +1,4 @@
-# KernelUCBGap
+# ContextualGap
 This Code is for best magnetometer selection.
 
 1) For cross validation use MainFileCrossVal.py
